@@ -269,3 +269,12 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/vim,visualstudiocode,osx,windows,linux,node,react
 
 build/
+
+# If you're using Zero-Installs:
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
